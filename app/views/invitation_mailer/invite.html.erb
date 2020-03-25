@@ -1,0 +1,3 @@
+<p>You have been invited to join SpidaGram.</p>
+<p><%= @invitation.account.subdomain %></p>
+<%= link_to "Accept Invitation", "http://localhost:3000/auth/#{@invitation.account.subdomain}/#{@urltype}/#{@invitation.token}" %>

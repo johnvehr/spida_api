@@ -1,0 +1,20 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+  username:
+  password:
+  host: localhost
+  port: 5432
+
+development: 
+ <<: *default
+ database: octoe_api_dev
+
+test: 
+ <<: *default
+ database: octoe_api_test
+
+production:
+ <<: *default
+ database: octoe_api_production

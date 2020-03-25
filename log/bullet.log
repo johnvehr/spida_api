@@ -1,0 +1,1244 @@
+2020-02-27 11:43:26[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:16:in `index'
+
+2020-02-27 11:43:26[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:16:in `index'
+
+2020-02-27 11:44:37[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:16:in `index'
+
+2020-02-27 11:44:38[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:16:in `index'
+
+2020-02-27 11:49:43[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-27 11:49:44[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-27 11:55:20[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-27 11:55:21[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-27 11:56:51[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-27 11:56:51[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-27 15:12:16[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-27 15:12:16[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 11:40:58[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 11:40:58[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 11:43:26[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 11:43:27[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 11:45:18[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 11:45:19[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 11:47:02[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 11:47:03[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 11:48:10[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 11:48:10[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 11:58:06[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 11:58:06[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 13:25:11[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 13:25:11[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 13:32:24[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 13:32:24[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 13:33:40[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 13:33:40[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 14:55:11[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 14:55:11[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 15:03:45[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 15:03:45[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 15:04:21[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 15:04:21[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 15:06:00[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 15:06:01[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 15:06:24[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 15:06:25[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 15:07:41[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 15:07:42[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 15:16:58[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 15:16:59[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 15:22:30[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 15:22:30[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 15:22:50[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 15:22:50[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 15:23:00[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 15:23:00[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 15:24:10[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 15:24:11[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:15:in `index'
+
+2020-02-28 15:58:05[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:16:in `index'
+
+2020-02-28 15:58:05[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:16:in `index'
+
+2020-02-28 16:02:50[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 16:02:51[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 16:06:50[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 16:06:51[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 16:07:53[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 16:07:54[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 16:09:24[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 16:09:25[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 16:09:40[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 16:09:40[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 16:11:01[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 16:11:02[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 17:20:02[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 17:20:02[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 17:32:55[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 17:32:56[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 17:33:37[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 17:33:37[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 17:35:16[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 17:35:17[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 17:38:13[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 17:38:13[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 17:39:53[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 17:39:53[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 17:40:31[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 17:40:32[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 17:41:36[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 17:41:36[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 17:41:55[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 17:41:55[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 17:56:41[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 17:56:41[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 21:00:03[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 21:00:03[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 21:01:33[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-28 21:01:33[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-29 10:55:46[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-02-29 10:55:46[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-01 19:42:23[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-01 19:42:23[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-01 19:42:48[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-01 19:42:48[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-01 19:46:40[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-01 19:46:40[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-01 19:46:46[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-01 19:46:46[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-02 14:45:32[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-02 14:45:32[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Teamone
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 11:53:07[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 11:53:07[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 12:55:40[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 12:55:40[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 12:57:01[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 12:57:02[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:03:21[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:03:21[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:04:41[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:04:41[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:09:32[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:09:32[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:10:00[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:10:02[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:10:02[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:13:57[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:13:58[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:22:57[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:23:00[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:23:55[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:23:56[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:28:53[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:34:12[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:34:57[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:35:15[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:35:40[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:36:59[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:37:00[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 13:45:58[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-03 14:00:02[WARN] user: johnvehr
+GET /api/v1/projects?subdomain=Suda
+USE eager loading detected
+  Project => [:project_team_members]
+  Add to your finder: :includes => [:project_team_members]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:17:in `index'
+
+2020-03-04 14:52:49[WARN] user: johnvehr
+GET /api/v1/projects/?subdomain=Suda
+USE eager loading detected
+  ProjectTeamMember => [:user]
+  Add to your finder: :includes => [:user]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:18:in `index'
+
+2020-03-04 14:52:49[WARN] user: johnvehr
+GET /api/v1/projects/?subdomain=Suda
+USE eager loading detected
+  Project => [:users]
+  Add to your finder: :includes => [:users]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/projects_controller.rb:18:in `index'
+
+2020-03-05 12:01:10[WARN] user: johnvehr
+GET /api/v1/projects/?subdomain=Suda
+AVOID eager loading detected
+  Project => [:users]
+  Remove from your finder: :includes => [:users]
+Call stack
+
+2020-03-05 12:01:50[WARN] user: johnvehr
+GET /api/v1/projects/?subdomain=Suda
+AVOID eager loading detected
+  Project => [:members, :project_team_members]
+  Remove from your finder: :includes => [:members, :project_team_members]
+Call stack
+
+2020-03-05 12:01:50[WARN] user: johnvehr
+GET /api/v1/projects/?subdomain=Suda
+AVOID eager loading detected
+  ProjectTeamMember => [:member]
+  Remove from your finder: :includes => [:member]
+Call stack
+
+2020-03-05 12:12:35[WARN] user: johnvehr
+GET /api/v1/projects/?subdomain=Suda
+AVOID eager loading detected
+  Project => [:users]
+  Remove from your finder: :includes => [:users]
+Call stack
+
+2020-03-23 15:53:32[WARN] user: johnvehr
+GET /api/v1/tasks/?project_id=36&subdomain=Suda
+USE eager loading detected
+  Task => [:taggings]
+  Add to your finder: :includes => [:taggings]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/services/format.rb:23:in `format_my_data'
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/tasks_controller.rb:11:in `index'
+
+2020-03-23 17:27:15[WARN] user: johnvehr
+POST /api/v1/tasks/?project_id=36&id=110&type=sub&subdomain=Suda
+USE eager loading detected
+  Task => [:taggings]
+  Add to your finder: :includes => [:taggings]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/services/format.rb:23:in `format_my_data'
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/tasks_controller.rb:29:in `create'
+
+2020-03-25 15:56:56[WARN] user: johnvehr
+POST /api/v1/tasks/?project_id=37&id=undefined&type=root&subdomain=Suda
+USE eager loading detected
+  Task => [:taggings]
+  Add to your finder: :includes => [:taggings]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/services/format.rb:23:in `format_my_data'
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/tasks_controller.rb:29:in `create'
+
+2020-03-25 15:57:14[WARN] user: johnvehr
+POST /api/v1/tasks/?project_id=37&id=undefined&type=root&subdomain=Suda
+USE eager loading detected
+  Task => [:taggings]
+  Add to your finder: :includes => [:taggings]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/services/format.rb:23:in `format_my_data'
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/tasks_controller.rb:29:in `create'
+
+2020-03-25 15:57:47[WARN] user: johnvehr
+POST /api/v1/tasks/?project_id=37&id=117&type=sub&subdomain=Suda
+USE eager loading detected
+  Task => [:taggings]
+  Add to your finder: :includes => [:taggings]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/services/format.rb:23:in `format_my_data'
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/tasks_controller.rb:29:in `create'
+
+2020-03-25 15:58:14[WARN] user: johnvehr
+POST /api/v1/tasks/?project_id=37&id=117&type=sub&subdomain=Suda
+USE eager loading detected
+  Task => [:taggings]
+  Add to your finder: :includes => [:taggings]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/services/format.rb:23:in `format_my_data'
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/tasks_controller.rb:29:in `create'
+
+2020-03-25 15:58:43[WARN] user: johnvehr
+POST /api/v1/tasks/?project_id=37&id=121&type=sub&subdomain=Suda
+USE eager loading detected
+  Task => [:taggings]
+  Add to your finder: :includes => [:taggings]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/services/format.rb:23:in `format_my_data'
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/tasks_controller.rb:29:in `create'
+
+2020-03-25 15:59:13[WARN] user: johnvehr
+POST /api/v1/tasks/?project_id=37&id=121&type=sub&subdomain=Suda
+USE eager loading detected
+  Task => [:taggings]
+  Add to your finder: :includes => [:taggings]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/services/format.rb:23:in `format_my_data'
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/tasks_controller.rb:29:in `create'
+
+2020-03-25 16:00:02[WARN] user: johnvehr
+POST /api/v1/tasks/?project_id=37&id=121&type=sub&subdomain=Suda
+USE eager loading detected
+  Task => [:taggings]
+  Add to your finder: :includes => [:taggings]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/services/format.rb:23:in `format_my_data'
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/tasks_controller.rb:29:in `create'
+
+2020-03-25 16:00:47[WARN] user: johnvehr
+POST /api/v1/tasks/?project_id=37&id=120&type=sub&subdomain=Suda
+USE eager loading detected
+  Task => [:taggings]
+  Add to your finder: :includes => [:taggings]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/services/format.rb:23:in `format_my_data'
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/tasks_controller.rb:29:in `create'
+
+2020-03-25 16:01:02[WARN] user: johnvehr
+POST /api/v1/tasks/?project_id=37&id=120&type=sub&subdomain=Suda
+USE eager loading detected
+  Task => [:taggings]
+  Add to your finder: :includes => [:taggings]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/services/format.rb:23:in `format_my_data'
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/tasks_controller.rb:29:in `create'
+
+2020-03-25 16:03:29[WARN] user: johnvehr
+POST /api/v1/tasks/?project_id=37&id=118&type=sub&subdomain=Suda
+USE eager loading detected
+  Task => [:taggings]
+  Add to your finder: :includes => [:taggings]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/services/format.rb:23:in `format_my_data'
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/tasks_controller.rb:29:in `create'
+
+2020-03-25 16:03:52[WARN] user: johnvehr
+POST /api/v1/tasks/?project_id=37&id=118&type=sub&subdomain=Suda
+USE eager loading detected
+  Task => [:taggings]
+  Add to your finder: :includes => [:taggings]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/services/format.rb:23:in `format_my_data'
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/tasks_controller.rb:29:in `create'
+
+2020-03-25 16:04:06[WARN] user: johnvehr
+POST /api/v1/tasks/?project_id=37&id=127&type=sub&subdomain=Suda
+USE eager loading detected
+  Task => [:taggings]
+  Add to your finder: :includes => [:taggings]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/services/format.rb:23:in `format_my_data'
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/tasks_controller.rb:29:in `create'
+
+2020-03-25 16:04:15[WARN] user: johnvehr
+POST /api/v1/tasks/?project_id=37&id=127&type=sub&subdomain=Suda
+USE eager loading detected
+  Task => [:taggings]
+  Add to your finder: :includes => [:taggings]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/services/format.rb:23:in `format_my_data'
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/tasks_controller.rb:29:in `create'
+
+2020-03-25 16:05:20[WARN] user: johnvehr
+POST /api/v1/tasks/?project_id=37&id=127&type=sub&subdomain=Suda
+USE eager loading detected
+  Task => [:taggings]
+  Add to your finder: :includes => [:taggings]
+Call stack
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/services/format.rb:23:in `format_my_data'
+  /Users/johnvehr/Builder/kuuik/octoe_api/app/controllers/api/v1/tasks_controller.rb:29:in `create'
+
